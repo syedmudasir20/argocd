@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to EyesOnCloud Test Web Server App</title>
+    <title>Welcome to Test Web Server App</title>
     <style>
         body {
             background-color: #1E90FF;
@@ -24,9 +24,8 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to EyesOnCloud Test Web Server App</h1>
+    <h1>Welcome to  Test Web Server App</h1>
     <p>This is a test web server application.</p>
-    <img src="https://github.com/EyesOnCloud/webapp/raw/main/EOC%20logo.png" alt="EOC Logo">
 </body>
 </html>
 ```
@@ -35,7 +34,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to EyesOnCloud Test Web Server App</title>
+    <title>Welcome to  Test Web Server App</title>
     <style>
         body {
             background-color: #ADFF2F;
@@ -55,9 +54,8 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to EyesOnCloud Test Web Server App</h1>
+    <h1>Welcome to Test Web Server App</h1>
     <p>This is a test web server application.</p>
-    <img src="https://github.com/EyesOnCloud/webapp/raw/main/EOC%20logo.png" alt="EOC Logo">
 </body>
 </html>
 ```
